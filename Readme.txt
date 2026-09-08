@@ -21,5 +21,4 @@ A simple interactive scoreboard built with HTML, CSS, and JavaScript to track sc
 
 ## Future Enhancements
 - Add a game timer  
-- Highlight the winning team  
 - Add player names or team logos  
